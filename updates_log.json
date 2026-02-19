@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "timestamp": "19/02 09:20",
+        "site": "Romana Auto",
+        "model": "Peugeot 208\n\t\t\t\t\t\t\t\n1.2 hybrid Allure 110cv e-dcs 6\n\n\t\t\t\t\t\t\t\tIbrida \u00b7 0 km\n\t\t\t\t\t\t\t\t \u00b7 Automatico",
+        "price": "17.900\u20ac",
+        "link": "https://www.romana-auto.it/auto-km-0-roma/1?order=5",
+        "id": "1?order=5"
+    },
+    {
+        "timestamp": "19/02 09:20",
+        "site": "Leonori",
+        "model": "BYD Seal U DM-i",
+        "price": "32.500\u20ac",
+        "link": "https://www.leonori.it/byd-seal-u-dm-i-ibrida-1-5-98-boost-km-0-N144475-37263",
+        "id": "37263"
+    },
+    {
+        "timestamp": "19/02 09:20",
+        "site": "Jolly Automobili",
+        "model": "Cupra Formentor 1.5 Plug in Hybrid DSG Dark Night  >> KM ZERO 2026  << 2026",
+        "price": "\u20ac 37990",
+        "link": "https://www.gruppojollyautomobili.com/auto/km0/frosinone/cupra/formentor/ibrida/1-5-plug-in-hybrid-dsg-dark-night-km-zero-2026/10583486/",
+        "id": "10583486"
+    }
+]
