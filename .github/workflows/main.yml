@@ -2,7 +2,7 @@ name: Update Auto List
 
 on:
   schedule:
-    - cron: 10 * * * *'  # Esegue l'azione ogni ora esatta
+    - cron: '10 * * * *'  # Esegue l'azione ogni ora esatta
   workflow_dispatch:      # Ti permette di premere un tasto e avviarlo a mano
 
 jobs:
