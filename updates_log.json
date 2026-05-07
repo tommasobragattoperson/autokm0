@@ -1,5 +1,21 @@
 [
     {
+        "timestamp": "07/05 14:47",
+        "site": "Leonori",
+        "model": "BYD Seal U DM-i",
+        "price": "32.500\u20ac",
+        "link": "https://www.leonori.it/byd-seal-u-dm-i-ibrida-1-5-98-boost-km-0-N146777-46430",
+        "id": "46430"
+    },
+    {
+        "timestamp": "07/05 14:47",
+        "site": "Jolly Automobili",
+        "model": "Hyundai Tucson PHEV 1.6 PHEV 288cv N-Line Auto 2026",
+        "price": "\u20ac 40990",
+        "link": "https://www.gruppojollyautomobili.com/auto/km0/frosinone/hyundai/tucson-phev/ibrida/1-6-phev-288cv-n-line-auto/10869473/",
+        "id": "10869473"
+    },
+    {
         "timestamp": "06/05 14:44",
         "site": "Leonori",
         "model": "BYD Seal U DM-i",
