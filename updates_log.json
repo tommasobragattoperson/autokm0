@@ -1,5 +1,21 @@
 [
     {
+        "timestamp": "26/05 16:51",
+        "site": "Leonori",
+        "model": "Fiat Pandina",
+        "price": "15.200\u20ac",
+        "link": "https://www.leonori.it/fiat-pandina-ibrida-1-0-at-65-icon-km-0-N145038-46332",
+        "id": "46332"
+    },
+    {
+        "timestamp": "26/05 16:51",
+        "site": "Jolly Automobili",
+        "model": "CUPRA Formentor 2.0 TDI DSG intell drive camera 360  KM ZERO 2026",
+        "price": "\u20ac 36900",
+        "link": "https://www.gruppojollyautomobili.com/auto/km0/frosinone/cupra/formentor/diesel/2-0-tdi-dsg-intell-drive-camera-360-km-zero/1000154385/",
+        "id": "1000154385"
+    },
+    {
         "timestamp": "23/05 21:06",
         "site": "Leonori",
         "model": "Citroen C3 Aircross",
