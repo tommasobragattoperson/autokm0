@@ -1,5 +1,21 @@
 [
     {
+        "timestamp": "04/06 16:28",
+        "site": "Leonori",
+        "model": "Citroen C3 Aircross",
+        "price": "19.171\u20ac",
+        "link": "https://www.leonori.it/citroen-c3-aircross-benzina-1-2-at-101-plus-km-0-N149554-48992",
+        "id": "48992"
+    },
+    {
+        "timestamp": "04/06 16:28",
+        "site": "Jolly Automobili",
+        "model": "Mazda Mazda2 Hybrid Full Hybrid Electric 1.5 VVT Prime-Line 2026",
+        "price": "\u20ac 19400",
+        "link": "https://www.gruppojollyautomobili.com/auto/km0/frosinone/mazda/mazda2-hybrid/ibrida/full-hybrid-electric-1-5-vvt-prime-line/1000184954/",
+        "id": "1000184954"
+    },
+    {
         "timestamp": "03/06 21:28",
         "site": "Leonori",
         "model": "BYD Seal U DM-i",
