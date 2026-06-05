@@ -1,5 +1,21 @@
 [
     {
+        "timestamp": "05/06 22:34",
+        "site": "Leonori",
+        "model": "Citroen C3 Aircross",
+        "price": "19.500\u20ac",
+        "link": "https://www.leonori.it/citroen-c3-aircross-benzina-1-2-at-101-plus-km-0-N149553-48988",
+        "id": "48988"
+    },
+    {
+        "timestamp": "05/06 22:34",
+        "site": "Jolly Automobili",
+        "model": "Lancia Ypsilon Ypsilon 1.2 mhev LX 110cv e-dct 2026",
+        "price": "\u20ac 21950",
+        "link": "https://www.gruppojollyautomobili.com/auto/km0/frosinone/lancia/ypsilon/ibrida/ypsilon-1-2-mhev-lx-110cv-e-dct/1000191055/",
+        "id": "1000191055"
+    },
+    {
         "timestamp": "05/06 08:51",
         "site": "Jolly Automobili",
         "model": "Lancia Ypsilon Ypsilon 1.2 mhev 110cv e-dct 2026",
