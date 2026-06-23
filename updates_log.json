@@ -1,5 +1,13 @@
 [
     {
+        "timestamp": "23/06 12:14",
+        "site": "Jolly Automobili",
+        "model": "CUPRA Formentor 1.5 Hybrid 150cv Business DSG 2026",
+        "price": "\u20ac 32850",
+        "link": "https://www.gruppojollyautomobili.com/auto/km0/frosinone/cupra/formentor/ibrida/1-5-hybrid-150cv-business-dsg/1000273291/",
+        "id": "1000273291"
+    },
+    {
         "timestamp": "22/06 21:11",
         "site": "Romana Auto",
         "model": "Jeep Compass\n\t\t\t\t\t\t\t\n1.2 turbo e-hybrid mhev Summit fwd 145cv edct6\n\n\t\t\t\t\t\t\t\tIbrida\n\t\t\t\t\t\t\t\t\u00b7\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t0 km\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \u00b7 Sequenziale",
@@ -390,13 +398,5 @@
         "price": "\u20ac 21900",
         "link": "https://www.gruppojollyautomobili.com/auto/km0/frosinone/lancia/ypsilon-ibrida/ibrida/ibrida-100cv-lx-e-dct/10711283/",
         "id": "10711283"
-    },
-    {
-        "timestamp": "20/02 14:58",
-        "site": "Leonori",
-        "model": "BYD Seal U DM-i",
-        "price": "32.500\u20ac",
-        "link": "https://www.leonori.it/byd-seal-u-dm-i-ibrida-1-5-98-boost-km-0-N144489-37961",
-        "id": "37961"
     }
 ]
