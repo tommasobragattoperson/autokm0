@@ -1,5 +1,13 @@
 [
     {
+        "timestamp": "25/06 15:09",
+        "site": "Leonori",
+        "model": "Citroen C3",
+        "price": "18.500\u20ac",
+        "link": "https://www.leonori.it/citroen-c3-benzina-1-2-at-100-plus-km-0-N149015-48978",
+        "id": "48978"
+    },
+    {
         "timestamp": "23/06 12:14",
         "site": "Jolly Automobili",
         "model": "CUPRA Formentor 1.5 Hybrid 150cv Business DSG 2026",
@@ -390,13 +398,5 @@
         "price": "\u20ac 19900",
         "link": "https://www.gruppojollyautomobili.com/auto/km0/frosinone/lancia/ypsilon-ibrida/ibrida/ibrida-100cv-ypsilon-e-dct/10711293/",
         "id": "10711293"
-    },
-    {
-        "timestamp": "02/03 10:05",
-        "site": "Jolly Automobili",
-        "model": "Lancia Ypsilon Ibrida Ibrida 100cv LX e-DCT 2026",
-        "price": "\u20ac 21900",
-        "link": "https://www.gruppojollyautomobili.com/auto/km0/frosinone/lancia/ypsilon-ibrida/ibrida/ibrida-100cv-lx-e-dct/10711283/",
-        "id": "10711283"
     }
 ]
