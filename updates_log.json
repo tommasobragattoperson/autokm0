@@ -1,5 +1,13 @@
 [
     {
+        "timestamp": "30/06 12:22",
+        "site": "Jolly Automobili",
+        "model": "FIAT Pandina 1.0 FireFly 65cv S&S 6m Hybrid Icon 2026",
+        "price": "\u20ac 13500",
+        "link": "https://www.gruppojollyautomobili.com/auto/km0/frosinone/fiat/pandina/ibrida/1-0-firefly-65cv-s-s-6m-hybrid-icon/1000300694/",
+        "id": "1000300694"
+    },
+    {
         "timestamp": "25/06 15:09",
         "site": "Leonori",
         "model": "Citroen C3",
@@ -390,13 +398,5 @@
         "price": "\u20ac 21900",
         "link": "https://www.gruppojollyautomobili.com/auto/km0/frosinone/lancia/ypsilon-ibrida/ibrida/ibrida-100cv-lx-e-dct/10711283/",
         "id": "10711283"
-    },
-    {
-        "timestamp": "02/03 11:01",
-        "site": "Jolly Automobili",
-        "model": "Lancia Ypsilon Ibrida Ibrida 100cv Ypsilon e-DCT 2026",
-        "price": "\u20ac 19900",
-        "link": "https://www.gruppojollyautomobili.com/auto/km0/frosinone/lancia/ypsilon-ibrida/ibrida/ibrida-100cv-ypsilon-e-dct/10711293/",
-        "id": "10711293"
     }
 ]
