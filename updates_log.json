@@ -1,5 +1,13 @@
 [
     {
+        "timestamp": "03/07 22:14",
+        "site": "Leonori",
+        "model": "Citroen C3",
+        "price": "18.171\u20ac",
+        "link": "https://www.leonori.it/citroen-c3-benzina-1-2-at-100-plus-km-0-N136586-62445",
+        "id": "62445"
+    },
+    {
         "timestamp": "01/07 12:48",
         "site": "Leonori",
         "model": "Fiat Scudo",
@@ -390,13 +398,5 @@
         "price": "\u20ac 19900",
         "link": "https://www.gruppojollyautomobili.com/auto/km0/frosinone/lancia/ypsilon-ibrida/ibrida/ibrida-100cv-ypsilon-e-dct-in-caso-di-finanziamento-extrasconto-1000/10711310/",
         "id": "10711310"
-    },
-    {
-        "timestamp": "03/03 23:39",
-        "site": "Leonori",
-        "model": "BYD Seal U DM-i",
-        "price": "32.500\u20ac",
-        "link": "https://www.leonori.it/byd-seal-u-dm-i-ibrida-1-5-98-boost-km-0-N144476-37674",
-        "id": "37674"
     }
 ]
