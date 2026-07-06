@@ -1,5 +1,13 @@
 [
     {
+        "timestamp": "06/07 12:58",
+        "site": "Leonori",
+        "model": "Citroen C3",
+        "price": "17.900\u20ac",
+        "link": "https://www.leonori.it/citroen-c3-benzina-1-2-at-100-plus-km-0-N145271-62446",
+        "id": "62446"
+    },
+    {
         "timestamp": "03/07 22:14",
         "site": "Leonori",
         "model": "Citroen C3",
@@ -390,13 +398,5 @@
         "price": "13.600\u20ac",
         "link": "https://www.leonori.it/fiat-panda-ibrida-1-0-at-70-km-0-N130598-28906",
         "id": "28906"
-    },
-    {
-        "timestamp": "04/03 10:55",
-        "site": "Jolly Automobili",
-        "model": "Lancia Ypsilon Ibrida Ibrida 100cv Ypsilon e-DCT in caso di finanziamento extrasconto 1000 \u20ac 2026",
-        "price": "\u20ac 19900",
-        "link": "https://www.gruppojollyautomobili.com/auto/km0/frosinone/lancia/ypsilon-ibrida/ibrida/ibrida-100cv-ypsilon-e-dct-in-caso-di-finanziamento-extrasconto-1000/10711310/",
-        "id": "10711310"
     }
 ]
