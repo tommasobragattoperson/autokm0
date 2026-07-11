@@ -1,5 +1,13 @@
 [
     {
+        "timestamp": "11/07 10:32",
+        "site": "Jolly Automobili",
+        "model": "Mazda CX-60 3.3L e-SKYACTIV MHEV Homura Auto 2026",
+        "price": "\u20ac 55900",
+        "link": "https://www.gruppojollyautomobili.com/auto/km0/frosinone/mazda/cx-60/diesel-elettrica/3-3l-e-skyactiv-mhev-homura-auto/1000332197/",
+        "id": "1000332197"
+    },
+    {
         "timestamp": "07/07 20:56",
         "site": "Leonori",
         "model": "Citroen C3",
@@ -390,13 +398,5 @@
         "price": "32.500\u20ac",
         "link": "https://www.leonori.it/byd-seal-u-dm-i-ibrida-1-5-98-boost-km-0-N144490-36279",
         "id": "36279"
-    },
-    {
-        "timestamp": "04/03 17:56",
-        "site": "Jolly Automobili",
-        "model": "Mazda CX-5  Mazda CX-5 5WGN 2.5L e-Skyactiv G 141ps 6AT FWD Homura PANO TLOP SOUL RED CRYSTAL 2025",
-        "price": "\u20ac 39000",
-        "link": "https://www.gruppojollyautomobili.com/auto/km0/frosinone/mazda/cx-5/ibrida/mazda-cx-5-5wgn-2-5l-e-skyactiv-g-141ps-6at-fwd-homura-pano-tlop-soul-red-crystal/10728392/",
-        "id": "10728392"
     }
 ]
