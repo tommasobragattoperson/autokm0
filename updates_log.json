@@ -1,5 +1,13 @@
 [
     {
+        "timestamp": "30/07 20:32",
+        "site": "Leonori",
+        "model": "Skoda Kamiq",
+        "price": "24.500\u20ac",
+        "link": "https://www.leonori.it/skoda-kamiq-benzina-1-0-at-115-your-way-km-0-N145731-65709",
+        "id": "65709"
+    },
+    {
         "timestamp": "11/07 10:32",
         "site": "Jolly Automobili",
         "model": "Mazda CX-60 3.3L e-SKYACTIV MHEV Homura Auto 2026",
@@ -390,13 +398,5 @@
         "price": "26.500\u20ac",
         "link": "https://www.leonori.it/fiat-scudo-diesel-120-km-0-N142921-43201",
         "id": "43201"
-    },
-    {
-        "timestamp": "27/03 21:50",
-        "site": "Leonori",
-        "model": "BYD Seal U DM-i",
-        "price": "32.500\u20ac",
-        "link": "https://www.leonori.it/byd-seal-u-dm-i-ibrida-1-5-98-boost-km-0-N144490-36279",
-        "id": "36279"
     }
 ]
