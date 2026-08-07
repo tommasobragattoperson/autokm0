@@ -1,5 +1,13 @@
 [
     {
+        "timestamp": "07/08 00:13",
+        "site": "Jolly Automobili",
+        "model": "CUPRA Terramar 2.0 TSI 4Drive DSG FULL OPTIONAL 2026",
+        "price": "\u20ac 44990",
+        "link": "https://www.gruppojollyautomobili.com/auto/km0/frosinone/cupra/terramar/benzina/2-0-tsi-4drive-dsg-full-optional/1000455489/",
+        "id": "1000455489"
+    },
+    {
         "timestamp": "04/08 15:33",
         "site": "Leonori",
         "model": "Citroen C3",
@@ -390,13 +398,5 @@
         "price": "\u20ac 40990",
         "link": "https://www.gruppojollyautomobili.com/auto/km0/frosinone/hyundai/tucson-phev/ibrida/1-6-phev-288cv-n-line-auto/10869473/",
         "id": "10869473"
-    },
-    {
-        "timestamp": "02/04 20:52",
-        "site": "Leonori",
-        "model": "Citroen C3",
-        "price": "20.900\u20ac",
-        "link": "https://www.leonori.it/citroen-c3-ibrida-1-2-at-100-max-km-0-N133407-43415",
-        "id": "43415"
     }
 ]
