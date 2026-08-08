@@ -1,5 +1,13 @@
 [
     {
+        "timestamp": "08/08 13:09",
+        "site": "Leonori",
+        "model": "Citroen C3",
+        "price": "17.900\u20ac",
+        "link": "https://www.leonori.it/citroen-c3-benzina-1-2-at-100-plus-km-0-N150475-65955",
+        "id": "65955"
+    },
+    {
         "timestamp": "07/08 00:13",
         "site": "Jolly Automobili",
         "model": "CUPRA Terramar 2.0 TSI 4Drive DSG FULL OPTIONAL 2026",
@@ -390,13 +398,5 @@
         "price": "\u20ac 31990",
         "link": "https://www.gruppojollyautomobili.com/auto/km0/frosinone/hyundai/tucson-hybrid/ibrida/1-6-hev-2wd-239cv-xtech-auto/10869484/",
         "id": "10869484"
-    },
-    {
-        "timestamp": "04/04 09:53",
-        "site": "Jolly Automobili",
-        "model": "Hyundai Tucson PHEV 1.6 PHEV 288cv N-Line Auto 2026",
-        "price": "\u20ac 40990",
-        "link": "https://www.gruppojollyautomobili.com/auto/km0/frosinone/hyundai/tucson-phev/ibrida/1-6-phev-288cv-n-line-auto/10869473/",
-        "id": "10869473"
     }
 ]
