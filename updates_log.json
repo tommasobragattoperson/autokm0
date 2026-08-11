@@ -1,5 +1,13 @@
 [
     {
+        "timestamp": "11/08 17:10",
+        "site": "Jolly Automobili",
+        "model": "Mazda CX-60 3.3L e-SKYACTIV MHEV Homura Auto 2026",
+        "price": "\u20ac 55900",
+        "link": "https://www.gruppojollyautomobili.com/auto/km0/frosinone/mazda/cx-60/diesel-elettrica/3-3l-e-skyactiv-mhev-homura-auto/1000332197/",
+        "id": "1000332197"
+    },
+    {
         "timestamp": "08/08 13:09",
         "site": "Leonori",
         "model": "Citroen C3",
@@ -390,13 +398,5 @@
         "price": "16.700\u20ac",
         "link": "https://www.leonori.it/peugeot-208-benzina-1-2-at-100-style-km-0-N147070-43387",
         "id": "43387"
-    },
-    {
-        "timestamp": "04/04 10:52",
-        "site": "Jolly Automobili",
-        "model": "Hyundai Tucson Hybrid 1.6 HEV 2wd 239cv Xtech Auto 2026",
-        "price": "\u20ac 31990",
-        "link": "https://www.gruppojollyautomobili.com/auto/km0/frosinone/hyundai/tucson-hybrid/ibrida/1-6-hev-2wd-239cv-xtech-auto/10869484/",
-        "id": "10869484"
     }
 ]
