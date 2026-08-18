@@ -1,5 +1,13 @@
 [
     {
+        "timestamp": "18/08 20:37",
+        "site": "Leonori",
+        "model": "Citroen C3",
+        "price": "15.900\u20ac",
+        "link": "https://www.leonori.it/citroen-c3-benzina-1-2-at-100-you-km-0-N150505-65953",
+        "id": "65953"
+    },
+    {
         "timestamp": "18/08 13:05",
         "site": "Leonori",
         "model": "Citroen C3",
@@ -390,13 +398,5 @@
         "price": "\u20ac 40990",
         "link": "https://www.gruppojollyautomobili.com/auto/km0/frosinone/hyundai/tucson-phev/ibrida/1-6-phev-288cv-n-line-auto/10869473/",
         "id": "10869473"
-    },
-    {
-        "timestamp": "07/04 15:41",
-        "site": "Jolly Automobili",
-        "model": "Hyundai Tucson Hybrid 1.6 HEV 2wd 239cv Xtech Auto 2026",
-        "price": "\u20ac 31990",
-        "link": "https://www.gruppojollyautomobili.com/auto/km0/frosinone/hyundai/tucson-hybrid/ibrida/1-6-hev-2wd-239cv-xtech-auto/10869484/",
-        "id": "10869484"
     }
 ]
