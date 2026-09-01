@@ -1,5 +1,13 @@
 [
     {
+        "timestamp": "01/09 14:50",
+        "site": "Leonori",
+        "model": "Skoda Fabia",
+        "price": "18.900\u20ac",
+        "link": "https://www.leonori.it/skoda-fabia-benzina-1-0-at-80-selection-km-0-N145735-66769",
+        "id": "66769"
+    },
+    {
         "timestamp": "18/08 20:37",
         "site": "Leonori",
         "model": "Citroen C3",
@@ -390,13 +398,5 @@
         "price": "26.200\u20ac",
         "link": "https://www.leonori.it/peugeot-2008-ibrida-1-2-at-136-gt-km-0-N147041-43384",
         "id": "43384"
-    },
-    {
-        "timestamp": "09/04 07:53",
-        "site": "Jolly Automobili",
-        "model": "Hyundai Tucson PHEV 1.6 PHEV 288cv N-Line Auto 2026",
-        "price": "\u20ac 40990",
-        "link": "https://www.gruppojollyautomobili.com/auto/km0/frosinone/hyundai/tucson-phev/ibrida/1-6-phev-288cv-n-line-auto/10869473/",
-        "id": "10869473"
     }
 ]
