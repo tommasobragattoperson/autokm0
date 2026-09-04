@@ -1,5 +1,13 @@
 [
     {
+        "timestamp": "04/09 18:21",
+        "site": "Jolly Automobili",
+        "model": "Jeep Avenger JEEP E-Hybrid Nuova Jeep Summit 1.2 110cv Dct E-Hybrid 2026",
+        "price": "\u20ac 28900",
+        "link": "https://www.gruppojollyautomobili.com/auto/km0/frosinone/jeep/avenger/altro/jeep-e-hybrid-nuova-jeep-summit-1-2-110cv-dct-e-hybrid/1000527466/",
+        "id": "1000527466"
+    },
+    {
         "timestamp": "03/09 21:41",
         "site": "Leonori",
         "model": "Citroen C3",
@@ -390,13 +398,5 @@
         "price": "18.500\u20ac",
         "link": "https://www.leonori.it/citroen-c3-benzina-1-2-at-100-max-km-0-N148521-46441",
         "id": "46441"
-    },
-    {
-        "timestamp": "05/05 14:22",
-        "site": "Leonori",
-        "model": "BYD Seal U DM-i",
-        "price": "39.500\u20ac",
-        "link": "https://www.leonori.it/byd-seal-u-dm-i-ibrida-1-5-131-design-km-0-N146047-46435",
-        "id": "46435"
     }
 ]
