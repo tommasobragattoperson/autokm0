@@ -1,5 +1,13 @@
 [
     {
+        "timestamp": "05/09 12:39",
+        "site": "Jolly Automobili",
+        "model": "CUPRA Leon 2.0 TDI 150cv Business DSG  >>> KM ZERO <<< 2026",
+        "price": "\u20ac 31990",
+        "link": "https://www.gruppojollyautomobili.com/auto/km0/frosinone/cupra/leon/diesel/2-0-tdi-150cv-business-dsg-km-zero/1000532108/",
+        "id": "1000532108"
+    },
+    {
         "timestamp": "04/09 21:25",
         "site": "Leonori",
         "model": "Citroen C3",
@@ -390,13 +398,5 @@
         "price": "\u20ac 40990",
         "link": "https://www.gruppojollyautomobili.com/auto/km0/frosinone/hyundai/tucson-phev/ibrida/1-6-phev-288cv-n-line-auto/10869473/",
         "id": "10869473"
-    },
-    {
-        "timestamp": "06/05 14:44",
-        "site": "Leonori",
-        "model": "BYD Seal U DM-i",
-        "price": "39.500\u20ac",
-        "link": "https://www.leonori.it/byd-seal-u-dm-i-ibrida-1-5-131-design-km-0-N146047-46435",
-        "id": "46435"
     }
 ]
