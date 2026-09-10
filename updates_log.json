@@ -1,5 +1,13 @@
 [
     {
+        "timestamp": "10/09 22:32",
+        "site": "Leonori",
+        "model": "Fiat 500",
+        "price": "19.600\u20ac",
+        "link": "https://www.leonori.it/fiat-500-ibrida-1-0-65-icon-km-0-N149530-68081",
+        "id": "68081"
+    },
+    {
         "timestamp": "10/09 16:21",
         "site": "Leonori",
         "model": "Peugeot 308 SW",
@@ -390,13 +398,5 @@
         "price": "19.500\u20ac",
         "link": "https://www.leonori.it/citroen-c3-aircross-benzina-1-2-at-101-plus-km-0-N122766-46407",
         "id": "46407"
-    },
-    {
-        "timestamp": "07/05 17:02",
-        "site": "Jolly Automobili",
-        "model": "Mazda Mazda3 2.5L Skyactiv-G 140cv M Hybrid Homura 6AT 2026",
-        "price": "\u20ac 27900",
-        "link": "https://www.gruppojollyautomobili.com/auto/km0/frosinone/mazda/mazda3/ibrida/2-5l-skyactiv-g-140cv-m-hybrid-homura-6at/1000063630/",
-        "id": "1000063630"
     }
 ]
