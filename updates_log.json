@@ -1,5 +1,13 @@
 [
     {
+        "timestamp": "19/09 20:35",
+        "site": "Leonori",
+        "model": "Fiat 500",
+        "price": "18.800\u20ac",
+        "link": "https://www.leonori.it/fiat-500-ibrida-1-0-65-icon-km-0-N149525-68080",
+        "id": "68080"
+    },
+    {
         "timestamp": "16/09 11:26",
         "site": "Jolly Automobili",
         "model": "Peugeot 208 Business PureTech 100 S/S 2026",
@@ -390,13 +398,5 @@
         "price": "15.200\u20ac",
         "link": "https://www.leonori.it/fiat-pandina-ibrida-1-0-at-65-icon-km-0-N145038-46332",
         "id": "46332"
-    },
-    {
-        "timestamp": "26/05 16:51",
-        "site": "Jolly Automobili",
-        "model": "CUPRA Formentor 2.0 TDI DSG intell drive camera 360  KM ZERO 2026",
-        "price": "\u20ac 36900",
-        "link": "https://www.gruppojollyautomobili.com/auto/km0/frosinone/cupra/formentor/diesel/2-0-tdi-dsg-intell-drive-camera-360-km-zero/1000154385/",
-        "id": "1000154385"
     }
 ]
