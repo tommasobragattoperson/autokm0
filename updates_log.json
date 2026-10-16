@@ -1,5 +1,13 @@
 [
     {
+        "timestamp": "16/10 17:22",
+        "site": "Jolly Automobili",
+        "model": "Dongfeng Shine GS Shine GS 1.5 E1 dct 2026",
+        "price": "\u20ac 18500",
+        "link": "https://www.gruppojollyautomobili.com/auto/km0/frosinone/dongfeng/shine-gs/benzina/shine-gs-1-5-e1-dct/1000727720/",
+        "id": "1000727720"
+    },
+    {
         "timestamp": "13/10 00:35",
         "site": "Leonori",
         "model": "Skoda Fabia",
@@ -390,13 +398,5 @@
         "price": "19.500\u20ac",
         "link": "https://www.leonori.it/citroen-c3-aircross-benzina-1-2-at-101-plus-km-0-N149553-48988",
         "id": "48988"
-    },
-    {
-        "timestamp": "05/06 22:34",
-        "site": "Jolly Automobili",
-        "model": "Lancia Ypsilon Ypsilon 1.2 mhev LX 110cv e-dct 2026",
-        "price": "\u20ac 21950",
-        "link": "https://www.gruppojollyautomobili.com/auto/km0/frosinone/lancia/ypsilon/ibrida/ypsilon-1-2-mhev-lx-110cv-e-dct/1000191055/",
-        "id": "1000191055"
     }
 ]
